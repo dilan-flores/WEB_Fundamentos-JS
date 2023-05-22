@@ -2,8 +2,6 @@
 
 // traceback: Función dentro de otra función
 // .map: mutar un arreglo sin alterar el original
-// Función expresada:
-// Función declarada: Comienza con la palabra "function"
 
 // FUNDAMENTOS: Acceder a claves y eliminar objetos
 console.log("           *** Fundamentos ***");
@@ -125,11 +123,11 @@ var factura ={
     },
     compras:["arroz","harina", "huevos"],
     
-    sendCliente: ()=>{// Funcióndeclarada funciona solo con factura
+    sendCliente: ()=>{// Esta función funciona solo con factura
         return `Cliente: ${factura.cliente.nombre}`
     },
 
-    sendCompras(){ // Función expresada funciona con this y factura
+    sendCompras(){ // Función declarada funciona con this y factura
         return `Compras: ${this.compras}`
     }
 }
