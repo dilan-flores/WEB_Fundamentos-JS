@@ -33,4 +33,23 @@ Eventos
 ![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/c070bc6c-f663-4afa-8715-497eff51ae87)
 ![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/d21b4fa2-3715-401a-a2f2-fec93c8b324e)
 
+# Ejecución API-Local Storage
+
+Guardar un Objeto en el LocalStorage
+
+![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/ef437a70-ad59-4941-a646-e13e21a7adfd)
+![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/d3c5f628-79a7-441b-a8c7-6cd7dbd62e0e)
+
+Obtener un Objeto en el LocalStorage
+![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/7e2ad0db-eff8-4ffa-abdf-b49b53abc6d0)
+
+Eliminar un Objeto en el LocalStorage
+![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/9a22ac7e-b4f2-43e0-9d94-92690ca61a7b)
+
+# Ejecución Módulos
+
+![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/e7bfc419-2996-4de3-aba8-83f1947c1b8e)
+![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/21b8c710-2637-490c-9adb-5a67afe37de9)
+
+
 
