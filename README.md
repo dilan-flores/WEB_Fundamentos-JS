@@ -26,3 +26,11 @@ Eventos
 ![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/0897cb7c-a315-4a38-834f-afcee20c777a)
 ![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/6af1277c-751a-4995-a06a-04500e557ade)
 
+# Ejecución Asincronismo
+
+![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/8207708c-0968-4fe0-8153-e3280c8588bd)
+![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/168508b3-232b-41af-ac81-1d4e3a79dfdf)
+![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/c070bc6c-f663-4afa-8715-497eff51ae87)
+![image](https://github.com/dilan-flores/WEB_Fundamentos-JS/assets/117755180/d21b4fa2-3715-401a-a2f2-fec93c8b324e)
+
+
