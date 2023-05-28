@@ -50,12 +50,12 @@ const imagen = document.querySelector('.custom-logo img')
 imagen.src="https://i.pinimg.com/originals/1a/91/d0/1a91d05221c5a1f04b4383d6db01ba8f.jpg"
 'https://i.pinimg.com/originals/1a/91/d0/1a91d05221c5a1f04b4383d6db01ba8f.jpg'
 
-//                  3.- MODIFICAR EL ESTILO
+//                  4.- MODIFICAR EL ESTILO
 
 document.querySelector('#search-178').style.border="20px blue solid"
 '20px blue solid'
 
-//                  3.- AGREGAR ELEMENTOS
+//                  5.- AGREGAR ELEMENTOS
 
 // Nodo appendChild: Agrega un nuevo nodo al final de la lista de un elemento hijo de un elemento padre
 
@@ -73,13 +73,13 @@ buscadorNAV.appendChild(button)
 button.style.border="1px white solid"
 '1px white solid'
 
-//                  4.- ELIMINAR ELEMENTOS
+//                  6.- ELIMINAR ELEMENTOS
 
 // Para eliminar un elemento, en este caso se especifica la ubicación del botón creado
 var eliminar = document.querySelector('nav button')
 eliminar.remove()
 
-//                  5.- EVENTOS
+//                  7.- EVENTOS
 
 // EVENTO - CLIC
 var buscadorNAV = document.querySelector('nav')
